@@ -1,4 +1,4 @@
-ej_merge [![Build Status]]
+ej_merge
 ========
 
 This module provides a pure Erlang support for JSON Patch (RFC 6902) and 
