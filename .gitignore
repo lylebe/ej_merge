@@ -1,0 +1,7 @@
+start.sh
+rebar
+.eunit
+*.beam
+doc
+ebin
+deps/
