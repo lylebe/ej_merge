@@ -27,7 +27,7 @@
 	patch/2
 ]).
 
--include_lib("deps/ej/include/ej.hrl").
+-include_lib("ej/include/ej.hrl").
 
 %% @doc RFC 7396 - JSON Merge Patch Function  
 %%

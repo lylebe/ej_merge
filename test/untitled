@@ -1,0 +1,29 @@
+{
+"meta" : {
+"vtag": {
+"resource-id": "my-default-network-map",
+"tag": "initial"
+}
+
+},
+"network-map" : {
+"mine" : {
+"ipv4" : [
+"100.0.0.0/8"
+]
+},
+"mine1" : {
+"ipv4" : [
+"100.0.0.0/10"
+]
+},
+"PID3" : {
+"ipv4" : [
+"0.0.0.0/0"
+],
+"ipv6" : [
+"::/0"
+]
+}
+}
+}

@@ -1,7 +1,7 @@
 {application, ej_merge,
  [
   {description, "An Elang module for JSON merge patch and JSON patch functions"},
-  {vsn, git},
+  {vsn, "1.0.0"},
   {registered, []},
   {applications, [
                   kernel,
